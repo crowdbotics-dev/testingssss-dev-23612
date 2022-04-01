@@ -18,8 +18,8 @@ const Untitled1 = () => {
       borderRadius: 0,
       color: "#777777"
     }}></View><View style={{
-      left: 34,
-      top: 188,
+      left: 35,
+      top: 167,
       position: "absolute",
       height: 60,
       width: 140,
