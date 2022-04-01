@@ -25,7 +25,15 @@ const Untitled4 = () => {
         height: 80,
         backgroundColor: "#E4E4E4",
         borderRadius: "50%"
-      }}></View></View></View>;
+      }}></View></View><View style={{
+      left: 55,
+      top: 221,
+      position: "absolute",
+      width: 80,
+      height: 80,
+      backgroundColor: "#E4E4E4",
+      borderRadius: "50%"
+    }}></View></View>;
 };
 
 export default Untitled4;
