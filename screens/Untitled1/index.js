@@ -35,6 +35,15 @@ const Untitled1 = () => {
       backgroundColor: "#E4E4E4",
       borderRadius: 0,
       color: "#777777"
+    }}></View><View style={{
+      left: 42,
+      top: 267,
+      position: "absolute",
+      height: 60,
+      width: 140,
+      backgroundColor: "#E4E4E4",
+      borderRadius: 0,
+      color: "#777777"
     }}></View></View>;
 };
 
