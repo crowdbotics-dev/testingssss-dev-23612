@@ -17,7 +17,24 @@ const Untitled2 = () => {
       backgroundColor: "#E4E4E4",
       borderRadius: 0,
       color: "#777777"
-    }}></View></View>;
+    }}></View><View style={{
+      left: 25,
+      top: 249,
+      position: "absolute",
+      height: 60,
+      width: 140,
+      backgroundColor: "#E4E4E4",
+      borderRadius: 0,
+      color: "#777777"
+    }}><View style={{
+        left: 6,
+        top: 0,
+        position: "absolute",
+        width: 80,
+        height: 80,
+        backgroundColor: "#E4E4E4",
+        borderRadius: "50%"
+      }}></View></View></View>;
 };
 
 export default Untitled2;
