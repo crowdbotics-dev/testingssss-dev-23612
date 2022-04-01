@@ -1,5 +1,5 @@
+import { TextInput } from "react-native";
 import { ImageBackground } from "react-native";
-import { Text } from "react-native";
 import React from "react";
 import { View } from "react-native";
 
@@ -19,16 +19,7 @@ const Untitled1 = () => {
       backgroundColor: "#E4E4E4",
       borderRadius: 0,
       color: "#777777"
-    }}><Text style={{
-        left: 25,
-        top: 0,
-        position: "absolute",
-        width: "100px",
-        height: "60px",
-        lineHeight: 14,
-        fontSize: 14,
-        borderRadius: 0
-      }}>Lorem ipsum… </Text></View><ImageBackground style={{
+    }}></View><ImageBackground style={{
       left: 25,
       top: 200,
       position: "absolute",
@@ -45,7 +36,15 @@ const Untitled1 = () => {
       backgroundColor: "#E4E4E4",
       borderRadius: 0,
       color: "#777777"
-    }}></View></View>;
+    }}></View><TextInput style={{
+      left: 92,
+      top: 285,
+      position: "absolute",
+      backgroundColor: "#ffffff",
+      borderColor: "#cccccc",
+      width: 150,
+      height: 30
+    }}></TextInput></View>;
 };
 
 export default Untitled1;
