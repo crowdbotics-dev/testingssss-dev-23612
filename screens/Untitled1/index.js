@@ -18,15 +18,6 @@ const Untitled1 = () => {
       lineHeight: 14,
       fontSize: 14,
       borderRadius: 0
-    }}>Lorem ipsum… </Text><Text style={{
-      left: 66,
-      top: 75,
-      position: "absolute",
-      width: 100,
-      height: 50,
-      lineHeight: 14,
-      fontSize: 14,
-      borderRadius: 0
     }}>Lorem ipsum… </Text><View style={{
       left: 46,
       top: 230,
