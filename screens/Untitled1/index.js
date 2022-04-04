@@ -10,7 +10,7 @@ const Untitled1 = () => {
     height: '100%'
   }}>
       <Text style={{
-      left: 63,
+      left: 37,
       top: 197,
       position: "absolute",
       width: "100px",
