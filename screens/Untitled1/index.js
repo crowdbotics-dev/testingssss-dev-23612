@@ -20,7 +20,16 @@ const Untitled1 = () => {
       borderRadius: 0,
       letterSpacing: 0,
       color: "#d31010"
-    }}>Lorem ipsum… </Text></View>;
+    }}>Lorem ipsum… </Text><View style={{
+      left: 17,
+      top: 90,
+      position: "absolute",
+      height: 60,
+      width: 140,
+      backgroundColor: "#E4E4E4",
+      borderRadius: 0,
+      color: "#777777"
+    }}></View></View>;
 };
 
 export default Untitled1;
