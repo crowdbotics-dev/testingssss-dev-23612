@@ -31,7 +31,7 @@ const Untitled1 = () => {
       fontWeight: 700,
       fontFamily: "Crimson Text",
       textAlign: "center",
-      opacity: 0.47,
+      opacity: 1,
       letterSpacing: 2
     }}>Text are working fine </Text></View>;
 };
