@@ -16,7 +16,8 @@ const Untitled1 = () => {
       width: 140,
       backgroundColor: "#E4E4E4",
       borderRadius: 0,
-      color: "#777777"
+      color: "#777777",
+      opacity: 0.48
     }}></View></View>;
 };
 
