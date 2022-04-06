@@ -11,7 +11,7 @@ const Untitled1 = () => {
   }}>
       <ImageBackground style={{
       left: 16,
-      top: 2,
+      top: 8,
       position: "absolute",
       width: "155px",
       height: "134px",
