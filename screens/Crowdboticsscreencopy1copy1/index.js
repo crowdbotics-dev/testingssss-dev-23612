@@ -26,7 +26,7 @@ const Untitled1 = () => {
       letterSpacing: 1,
       transform: "rotate(0deg)"
     }}>Crowdbotics </Text><ImageBackground style={{
-      left: 3,
+      left: 0,
       top: 47,
       position: "absolute",
       width: 195,
