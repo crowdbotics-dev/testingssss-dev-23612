@@ -46,7 +46,16 @@ const Untitled1 = () => {
       textAlign: "center",
       letterSpacing: 1,
       opacity: 1
-    }}>Welcome to Future!</Text></View>;
+    }}>Welcome to Future!</Text><View style={{
+      left: 33,
+      top: 102,
+      position: "absolute",
+      height: 130,
+      width: 140,
+      backgroundColor: "#E4E4E4",
+      borderRadius: 0,
+      color: "#777777"
+    }}></View></View>;
 };
 
 export default Untitled1;
