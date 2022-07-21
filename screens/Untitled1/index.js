@@ -24,7 +24,9 @@ const Untitled1 = () => {
     }]} layout="row" style={{
       left: 119,
       top: 76,
-      position: "absolute"
+      position: "absolute",
+      width: 70,
+      height: 140
     }}></RadioGroup></View>;
 };
 
