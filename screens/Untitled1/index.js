@@ -12,8 +12,8 @@ const Untitled1 = () => {
       left: 14,
       top: 90,
       position: "absolute",
-      height: 90,
-      width: 90,
+      height: 100,
+      width: 150,
       backgroundColor: "#E4E4E4",
       borderRadius: 0,
       color: "#777777"
