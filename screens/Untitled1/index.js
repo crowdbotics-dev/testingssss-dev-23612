@@ -29,7 +29,16 @@ const Untitled1 = () => {
       fontSize: 14,
       borderRadius: 0,
       color: "19DF22"
-    }}>Lorem ipsum… </Text></View>;
+    }}>Lorem ipsum… </Text><View style={{
+      left: 44,
+      top: 98,
+      position: "absolute",
+      height: 60,
+      width: 140,
+      backgroundColor: "#2a2eb4",
+      borderRadius: 0,
+      color: "#19DF22"
+    }}></View></View>;
 };
 
 export default Untitled1;
