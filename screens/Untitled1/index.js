@@ -18,8 +18,8 @@ const Untitled1 = () => {
       lineHeight: 14,
       fontSize: 14,
       borderRadius: 0,
-      color: "ffffff"
-    }}>Lorem ipsum… </Text></View>;
+      color: "EA5757"
+    }}>crowdbotics </Text></View>;
 };
 
 export default Untitled1;
