@@ -11,21 +11,7 @@ const Untitled1 = () => {
     height: "100%",
     borderRadius: 0
   }}>
-      <Text style={{
-      left: 0,
-      top: 0,
-      position: "absolute",
-      width: 196,
-      height: 97,
-      lineHeight: 476,
-      fontSize: 31,
-      borderRadius: 0,
-      color: "#d13434",
-      textAlign: "center",
-      fontWeight: 700,
-      letterSpacing: 1,
-      transform: "rotate(0deg)"
-    }}>Crowdbotics </Text><ImageBackground style={{
+      <ImageBackground style={{
       left: 0,
       top: 47,
       position: "absolute",
