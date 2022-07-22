@@ -1,4 +1,3 @@
-import { Text } from "react-native";
 import React from "react";
 import { View } from "react-native";
 
@@ -9,17 +8,16 @@ const Untitled1 = () => {
     position: 'relative',
     height: '100%'
   }}>
-      <Text style={{
-      left: 37,
-      top: 126,
+      <View style={{
+      left: 14,
+      top: 90,
       position: "absolute",
-      width: 150,
       height: 60,
-      lineHeight: 14,
-      fontSize: 14,
+      width: 140,
+      backgroundColor: "#E4E4E4",
       borderRadius: 0,
-      color: "EA5757"
-    }}>crowdbotics </Text></View>;
+      color: "#777777"
+    }}></View></View>;
 };
 
 export default Untitled1;
