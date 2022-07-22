@@ -17,7 +17,8 @@ const Untitled1 = () => {
       height: 60,
       lineHeight: 14,
       fontSize: 14,
-      borderRadius: 0
+      borderRadius: 0,
+      color: "ffffff"
     }}>Lorem ipsum… </Text></View>;
 };
 
