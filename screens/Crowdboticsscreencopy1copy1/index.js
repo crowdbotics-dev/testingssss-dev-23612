@@ -17,7 +17,7 @@ const Untitled1 = () => {
       position: "absolute",
       width: 196,
       height: 97,
-      lineHeight: 46,
+      lineHeight: 476,
       fontSize: 31,
       borderRadius: 0,
       color: "#d13434",
