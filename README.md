@@ -57,6 +57,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [django-social-auth](backend/modules)
 - [django-push-notifications](backend/modules)
+- [django-articles](backend/modules)
 
 # Getting started: Frontend
 
