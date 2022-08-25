@@ -1,4 +1,13 @@
-from .models import User
+from .models import (
+    User,
+    Skill,
+    MatchRequest,
+    MatchDenied,
+    Match,
+    ProfileConfig,
+    Interest,
+    UserProfile,
+)
 from django.contrib.auth import get_user_model
 from django.contrib.auth.mixins import LoginRequiredMixin
 from django.urls import reverse

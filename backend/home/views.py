@@ -1,4 +1,14 @@
-from .models import HomePage, CustomText
+from .models import (
+    PostComment,
+    UpvotePost,
+    CustomText,
+    LikeComment,
+    HomePage,
+    DownvotePost,
+    PostMedia,
+    ReportPost,
+    Post,
+)
 from django.views.generic import CreateView, UpdateView, DetailView, ListView
 from django.shortcuts import render
 
