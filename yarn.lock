@@ -959,7 +959,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@modules/onboarding@file:./modules/onboarding/":
+"@modules/articles@file:./modules/articles/":
+  version "1.0.0"
+
+"@modules/onboarding@file:./modules/onboarding":
   version "1.0.0"
   dependencies:
     react-native-app-intro-slider "^4.0.4"
